@@ -1,5 +1,3 @@
-JavaScript Documentation
-
 This project is a simple JavaScript documentation website designed to provide clear, concise explanations of JavaScript concepts, functions, and syntax. 
 
 Features:
