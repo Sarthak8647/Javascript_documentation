@@ -2,7 +2,7 @@ JavaScript Documentation
 
 This project is a simple JavaScript documentation website designed to provide clear, concise explanations of JavaScript concepts, functions, and syntax. 
 
-It features:
+Features:
 
 Comprehensive Content: Covers essential JavaScript topics such as variables, functions, loops, events, and more.
 
