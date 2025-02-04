@@ -1,4 +1,4 @@
-Simple JavaScript documentation website designed to provide clear, concise explanations of JavaScript concepts, functions, and syntax. 
+The JavaScript documentation website designed to provide clear, concise explanations of JavaScript concepts, functions, and syntax. 
 
 Features:
 
